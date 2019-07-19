@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<EMPRESAS>
+  <EMPRESA>
+    <NOMBRE>Empresa Uno</NOMBRE>
+    <TELEFONO>123456789</TELEFONO>
+    <EMAIL>empresa@empresauno.com</EMAIL>
+  </EMPRESA>
+</EMPRESAS>
